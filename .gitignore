@@ -31,3 +31,6 @@
 *.exe
 *.out
 *.app
+
+/Users/adriannicolaelisnic/02.Repos/POO/Adrian_Lisnic_ActivitatePOOID2024/cmake-build-debug
+/Users/adriannicolaelisnic/02.Repos/POO/Adrian_Lisnic_ActivitatePOOID2024/CMakeLists.txt
