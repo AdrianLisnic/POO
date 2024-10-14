@@ -1,3 +1,0 @@
-/Users/adriannicolaelisnic/02.Repos/POO/Adrian_Lisnic_ActivitatePOOID2024/cmake-build-debug/CMakeFiles/Adrian_Lisnic_ActivitatePOOID2024.dir
-/Users/adriannicolaelisnic/02.Repos/POO/Adrian_Lisnic_ActivitatePOOID2024/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/adriannicolaelisnic/02.Repos/POO/Adrian_Lisnic_ActivitatePOOID2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
